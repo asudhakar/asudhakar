@@ -91,11 +91,6 @@ LLM-powered code-review system to shipping production systems with self-hosted A
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asudhakar&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Sudhakar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asudhakar&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asudhakar&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -111,5 +106,5 @@ LLM-powered code-review system to shipping production systems with self-hosted A
 
 <!--
   Tip: The streak-stats image uses a community-hosted service; if it ever stops loading,
-  just delete that one line — the two cards above it are independent.
+  just delete that one line.
 -->
