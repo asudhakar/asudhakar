@@ -19,7 +19,7 @@
 
 Senior software engineer and team lead with **10+ years** building and architecting
 backend systems, microservices, and distributed platforms. I'm a polyglot — fluent in
-**Java**, **Go**, **TypeScript/JavaScript**, and **Python** — and like picking the right
+**Go**, **TypeScript/JavaScript**, **Python**, and **Java** — and like picking the right
 tool for the problem.
 
 At **Thoughtworks**, I lead squads of 5–8 engineers delivering high-scale fintech platforms
@@ -40,12 +40,12 @@ LLM-powered code-review system to shipping production systems with self-hosted A
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
 **Backend & APIs**
 
